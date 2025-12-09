@@ -9,6 +9,14 @@
 ![Repair](https://github.com/aflor103/Drone-Build-Photos-/blob/main/Screenshot%202025-12-09%20002134.png?raw=true)
 
 
+<h2> Had to power, UART, and SBUS wires so that when it plugged in the FC, it would match the pin out that was online </h2>
+
+![Repair](https://github.com/aflor103/Drone-Build-Photos-/blob/main/Screenshot%202025-12-09%20173553.png)
+
+<h2> ^^Heres that pinout that I had to rearrange those wires to... (Top left 6 pins) (Schematics provided from manufacturer </h2>
+
+![Repair](https://github.com/aflor103/Drone-Build-Photos-/blob/main/flight%20controller%20schematics.png?raw=true)
+
 
 <h2> (Different Build) Resolder VTX 5v cable to Battery Lead (For raw power since the 5v pad was damaged and the next viable option was to go directly to battery lead) </h2>
 
