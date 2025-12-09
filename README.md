@@ -5,7 +5,9 @@
 
 <h2> Soldering on the motors onto the AIO FC. Made sure to be precise with the length of the motors and ensure proper soldering joints (Pro Tip: Use a cotton swab with IPA to clean off the residue of leftover flux form your soldering </h2>
 
+![Repair](https://github.com/aflor103/Drone-Build-Photos-/blob/main/Screenshot%202025-12-09%20173351.png?raw=true)
 ![Repair](https://github.com/aflor103/Drone-Build-Photos-/blob/main/Screenshot%202025-12-09%20002134.png?raw=true)
+
 
 
 <h2> (Different Build) Resolder VTX 5v cable to Battery Lead (For raw power since the 5v pad was damaged and the next viable option was to go directly to battery lead) </h2>
