@@ -12,6 +12,6 @@
 
 ![Repair](https://github.com/aflor103/Drone-Build-Photos-/blob/main/Screenshot%202025-12-09%20001645.png?raw=true)
 
-<h2> (Not a build haha, but heres what hours of design and troublshooting (FLYING!) </h2>
+<h2> (Not a build haha, but heres what hours of design and troublshooting work towards (FLYING!) </h2>
 
 ![Repair](https://github.com/aflor103/Drone-Build-Photos-/blob/main/Screenshot%202025-12-09%20003713.png)
