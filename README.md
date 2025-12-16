@@ -12,7 +12,7 @@
 <h2> Had to rearrange power, UART, and SBUS wires so that when it plugged in the FC, it would match the pin out that was online </h2>
 
 ![Repair](https://github.com/aflor103/Drone-Build-Photos-/blob/main/Screenshot%202025-12-09%20173553.png)
-![Repair](https://github.com/aflor103/Drone-Build-Photos-)
+![Repair](https://github.com/aflor103/Drone-Build-Photos-/blob/main/bottomofaio.png?raw=true)
 
 <h2> ^^Heres that pinout that I had to rearrange those wires to... (Top left 6 pins) (Schematics provided from manufacturer </h2>
 
